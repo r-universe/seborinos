@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "NCutYX"]
+	path = NCutYX
+	url = https://github.com/seborinos/ncutyx
+	shallow = true
+	registered = true
